@@ -1,0 +1,635 @@
+
+06-05-2024 19:48:41 [inice.gamenix.store][info] Parent plugin start installation!
+06-05-2024 19:48:41 [inice.gamenix.store][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.6.9
+06-05-2024 19:48:41 [inice.gamenix.store][info] Parent plugin installation complete!
+-------------------------------
+06-05-2024 19:49:02 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 19:49:02 [inice.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/inice/wp-content/uploads/wio_backup)
+06-05-2024 19:49:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/woocommerce-placeholder.png) to a remote server (server_1).
+06-05-2024 19:49:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:49:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/woocommerce-placeholder-150x150.png) to a remote server (server_1).
+06-05-2024 19:49:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:49:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/woocommerce-placeholder-300x300.png) to a remote server (server_1).
+06-05-2024 19:49:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:49:03 [inice.gamenix.store][debug] New queue created #1, attributes values: {"server_id":null,"object_id":"6","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":116957,"final_size":84796,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":102644,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715014143}
+06-05-2024 19:49:03 [inice.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/inice/wp-content/uploads/wio_backup/2024/05)
+06-05-2024 19:49:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/Монтажна-область-1.png) to a remote server (server_1).
+06-05-2024 19:49:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:49:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/Монтажна-область-1-150x150.png) to a remote server (server_1).
+06-05-2024 19:49:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:49:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/Монтажна-область-1-300x300.png) to a remote server (server_1).
+06-05-2024 19:49:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:49:04 [inice.gamenix.store][debug] New queue created #2, attributes values: {"server_id":null,"object_id":"19","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":29353,"final_size":16003,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":20061,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715014144}
+06-05-2024 19:49:04 [inice.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/inice/wp-content/uploads/wio_backup/2018/12)
+06-05-2024 19:49:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/men-fashion-free-img.jpg) to a remote server (server_1).
+06-05-2024 19:49:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:49:05 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/men-fashion-free-img-150x150.jpg) to a remote server (server_1).
+06-05-2024 19:49:05 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:49:05 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/men-fashion-free-img-300x300.jpg) to a remote server (server_1).
+06-05-2024 19:49:05 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:49:05 [inice.gamenix.store][debug] New queue created #3, attributes values: {"server_id":null,"object_id":"499","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":72112,"final_size":71190,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":53664,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715014145}
+06-05-2024 19:49:05 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 19:54:07 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 19:54:07 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/women-fashion-free-img.jpg) to a remote server (server_1).
+06-05-2024 19:54:08 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:54:08 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/women-fashion-free-img-150x150.jpg) to a remote server (server_1).
+06-05-2024 19:54:08 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:54:08 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/women-fashion-free-img-300x300.jpg) to a remote server (server_1).
+06-05-2024 19:54:08 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:54:08 [inice.gamenix.store][debug] New queue created #4, attributes values: {"server_id":null,"object_id":"500","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":54050,"final_size":53274,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":38437,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715014448}
+06-05-2024 19:54:08 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/footwear-free-img.jpg) to a remote server (server_1).
+06-05-2024 19:54:08 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:54:09 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/footwear-free-img-150x150.jpg) to a remote server (server_1).
+06-05-2024 19:54:09 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:54:09 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/footwear-free-img-300x300.jpg) to a remote server (server_1).
+06-05-2024 19:54:09 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:54:09 [inice.gamenix.store][debug] New queue created #5, attributes values: {"server_id":null,"object_id":"506","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":29999,"final_size":29067,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":19911,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715014449}
+06-05-2024 19:54:09 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/playstore-free-img.png) to a remote server (server_1).
+06-05-2024 19:54:09 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:54:09 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/playstore-free-img-150x150.png) to a remote server (server_1).
+06-05-2024 19:54:09 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:54:10 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/playstore-free-img-300x90.png) to a remote server (server_1).
+06-05-2024 19:54:10 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:54:10 [inice.gamenix.store][debug] New queue created #6, attributes values: {"server_id":null,"object_id":"563","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":26013,"final_size":14483,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":5483,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715014450}
+06-05-2024 19:54:10 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 19:59:49 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 19:59:49 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/globe-free-img.png) to a remote server (server_1).
+06-05-2024 19:59:49 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:59:49 [inice.gamenix.store][debug] New queue created #7, attributes values: {"server_id":null,"object_id":"586","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":3416,"final_size":3416,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":3416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715014789}
+06-05-2024 19:59:49 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/lock-free-img.png) to a remote server (server_1).
+06-05-2024 19:59:49 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:59:49 [inice.gamenix.store][debug] New queue created #8, attributes values: {"server_id":null,"object_id":"587","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1800,"final_size":1800,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1800,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715014789}
+06-05-2024 19:59:49 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/quality-free-img.png) to a remote server (server_1).
+06-05-2024 19:59:49 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 19:59:49 [inice.gamenix.store][debug] New queue created #9, attributes values: {"server_id":null,"object_id":"588","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1601,"final_size":1601,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1601,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715014789}
+06-05-2024 19:59:49 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 20:07:14 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 20:07:14 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/tag-free-img.png) to a remote server (server_1).
+06-05-2024 20:07:14 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:07:14 [inice.gamenix.store][debug] New queue created #10, attributes values: {"server_id":null,"object_id":"589","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":2040,"final_size":2040,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":2040,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715015234}
+06-05-2024 20:07:14 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/team1-free-img.png) to a remote server (server_1).
+06-05-2024 20:07:14 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:07:15 [inice.gamenix.store][debug] New queue created #11, attributes values: {"server_id":null,"object_id":"734","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":13520,"final_size":13520,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":13520,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715015235}
+06-05-2024 20:07:15 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/team2-free-img.png) to a remote server (server_1).
+06-05-2024 20:07:15 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:07:15 [inice.gamenix.store][debug] New queue created #12, attributes values: {"server_id":null,"object_id":"735","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":11331,"final_size":11331,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":11331,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715015235}
+06-05-2024 20:07:15 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 20:09:42 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 20:09:42 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/team3-free-img.png) to a remote server (server_1).
+06-05-2024 20:09:43 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:09:43 [inice.gamenix.store][debug] New queue created #13, attributes values: {"server_id":null,"object_id":"736","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":14920,"final_size":14920,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":14920,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715015383}
+06-05-2024 20:09:43 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/team4free-img.png) to a remote server (server_1).
+06-05-2024 20:09:43 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:09:43 [inice.gamenix.store][debug] New queue created #14, attributes values: {"server_id":null,"object_id":"737","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":11463,"final_size":11463,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":11463,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715015383}
+06-05-2024 20:09:43 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/team5-free-img.png) to a remote server (server_1).
+06-05-2024 20:09:43 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:09:43 [inice.gamenix.store][debug] New queue created #15, attributes values: {"server_id":null,"object_id":"738","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":13872,"final_size":13872,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":13872,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715015383}
+06-05-2024 20:09:43 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 20:14:06 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 20:14:06 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/team6-free-img.png) to a remote server (server_1).
+06-05-2024 20:14:07 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:14:07 [inice.gamenix.store][debug] New queue created #16, attributes values: {"server_id":null,"object_id":"739","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":11178,"final_size":11178,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":11178,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715015647}
+06-05-2024 20:14:07 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/slide-image-free-img.jpg) to a remote server (server_1).
+06-05-2024 20:14:07 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:14:07 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/slide-image-free-img-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:14:07 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:14:07 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/slide-image-free-img-300x169.jpg) to a remote server (server_1).
+06-05-2024 20:14:08 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:14:08 [inice.gamenix.store][debug] New queue created #17, attributes values: {"server_id":null,"object_id":"740","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":124173,"final_size":123065,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":102155,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715015648}
+06-05-2024 20:14:08 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/logo@2x-free-img.png) to a remote server (server_1).
+06-05-2024 20:14:08 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:14:08 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/logo@2x-free-img-150x120.png) to a remote server (server_1).
+06-05-2024 20:14:08 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:14:08 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/logo@2x-free-img-300x100.png) to a remote server (server_1).
+06-05-2024 20:14:08 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:14:08 [inice.gamenix.store][debug] New queue created #18, attributes values: {"server_id":null,"object_id":"760","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":16812,"final_size":12702,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":7253,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715015648}
+06-05-2024 20:14:08 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 20:19:04 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 20:19:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/logo1@2x-free-img.png) to a remote server (server_1).
+06-05-2024 20:19:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:19:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/logo1@2x-free-img-150x120.png) to a remote server (server_1).
+06-05-2024 20:19:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:19:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/logo1@2x-free-img-300x100.png) to a remote server (server_1).
+06-05-2024 20:19:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:19:04 [inice.gamenix.store][debug] New queue created #19, attributes values: {"server_id":null,"object_id":"761","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":16430,"final_size":12112,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6885,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715015944}
+06-05-2024 20:19:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/logo1-free-img.png) to a remote server (server_1).
+06-05-2024 20:19:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:19:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/logo1-free-img-150x60.png) to a remote server (server_1).
+06-05-2024 20:19:05 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:19:05 [inice.gamenix.store][debug] New queue created #20, attributes values: {"server_id":null,"object_id":"762","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":6448,"final_size":5667,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":3690,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715015945}
+06-05-2024 20:19:05 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/favicon-free-img.png) to a remote server (server_1).
+06-05-2024 20:19:05 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:19:05 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2018/12/favicon-free-img-150x150.png) to a remote server (server_1).
+06-05-2024 20:19:05 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:19:05 [inice.gamenix.store][debug] New queue created #21, attributes values: {"server_id":null,"object_id":"767","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":7470,"final_size":6590,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":4282,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715015945}
+06-05-2024 20:19:05 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 20:25:08 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 20:25:08 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/woocommerce-placeholder.png) to a remote server (server_1).
+06-05-2024 20:25:09 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:25:09 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/woocommerce-placeholder-150x150.png) to a remote server (server_1).
+06-05-2024 20:25:09 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:25:09 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/woocommerce-placeholder-300x300.png) to a remote server (server_1).
+06-05-2024 20:25:09 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:25:09 [inice.gamenix.store][debug] New queue created #22, attributes values: {"server_id":null,"object_id":"919","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":119323,"final_size":84347,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":102644,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715016309}
+06-05-2024 20:25:09 [inice.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/inice/wp-content/uploads/wio_backup/2019/12)
+06-05-2024 20:25:09 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2019/12/banner-03.jpg) to a remote server (server_1).
+06-05-2024 20:25:10 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:25:10 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2019/12/banner-03-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:25:10 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:25:10 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2019/12/banner-03-300x172.jpg) to a remote server (server_1).
+06-05-2024 20:25:10 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:25:10 [inice.gamenix.store][debug] New queue created #23, attributes values: {"server_id":null,"object_id":"1196","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":253381,"final_size":159319,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":242200,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715016310}
+06-05-2024 20:25:10 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2019/12/home-new-bg-free-img.jpg) to a remote server (server_1).
+06-05-2024 20:25:11 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:25:11 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2019/12/home-new-bg-free-img-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:25:11 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:25:11 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2019/12/home-new-bg-free-img-300x169.jpg) to a remote server (server_1).
+06-05-2024 20:25:11 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:25:11 [inice.gamenix.store][debug] New queue created #24, attributes values: {"server_id":null,"object_id":"1198","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":157424,"final_size":149218,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":145142,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715016311}
+06-05-2024 20:25:11 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 20:29:04 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 20:29:05 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2019/12/banner-05.jpg) to a remote server (server_1).
+06-05-2024 20:29:05 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:29:05 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2019/12/banner-05-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:29:05 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:29:05 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2019/12/banner-05-300x172.jpg) to a remote server (server_1).
+06-05-2024 20:29:05 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:29:06 [inice.gamenix.store][debug] New queue created #25, attributes values: {"server_id":null,"object_id":"1205","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":391456,"final_size":250082,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":369570,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715016546}
+06-05-2024 20:29:06 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2019/12/banner-04.jpg) to a remote server (server_1).
+06-05-2024 20:29:06 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:29:06 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2019/12/banner-04-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:29:06 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:29:06 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2019/12/banner-04-300x172.jpg) to a remote server (server_1).
+06-05-2024 20:29:07 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:29:07 [inice.gamenix.store][debug] New queue created #26, attributes values: {"server_id":null,"object_id":"1206","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":555924,"final_size":331308,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":531013,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715016547}
+06-05-2024 20:29:07 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2019/12/banner-06.jpg) to a remote server (server_1).
+06-05-2024 20:29:07 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:29:07 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2019/12/banner-06-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:29:07 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:29:08 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2019/12/banner-06-300x172.jpg) to a remote server (server_1).
+06-05-2024 20:29:08 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:29:08 [inice.gamenix.store][debug] New queue created #27, attributes values: {"server_id":null,"object_id":"1209","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":321856,"final_size":224772,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":299984,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715016548}
+06-05-2024 20:29:08 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 20:34:21 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 20:34:21 [inice.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/inice/wp-content/uploads/wio_backup/2017/12)
+06-05-2024 20:34:21 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-accessory1.jpg) to a remote server (server_1).
+06-05-2024 20:34:21 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:34:22 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-accessory1-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:34:22 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:34:22 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-accessory1-300x300.jpg) to a remote server (server_1).
+06-05-2024 20:34:22 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:34:22 [inice.gamenix.store][debug] New queue created #28, attributes values: {"server_id":null,"object_id":"1308","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":99006,"final_size":92047,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":85069,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715016862}
+06-05-2024 20:34:22 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-accessory2.jpg) to a remote server (server_1).
+06-05-2024 20:34:22 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:34:22 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-accessory2-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:34:23 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:34:23 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-accessory2-300x300.jpg) to a remote server (server_1).
+06-05-2024 20:34:23 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:34:23 [inice.gamenix.store][debug] New queue created #29, attributes values: {"server_id":null,"object_id":"1309","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":69308,"final_size":63527,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":58072,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715016863}
+06-05-2024 20:34:23 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-accessory3.jpg) to a remote server (server_1).
+06-05-2024 20:34:23 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:34:23 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-accessory3-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:34:23 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:34:24 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-accessory3-300x300.jpg) to a remote server (server_1).
+06-05-2024 20:34:24 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:34:24 [inice.gamenix.store][debug] New queue created #30, attributes values: {"server_id":null,"object_id":"1310","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":111432,"final_size":102780,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":97103,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715016864}
+06-05-2024 20:34:24 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 20:39:01 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 20:39:01 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-bag1.jpg) to a remote server (server_1).
+06-05-2024 20:39:02 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:39:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-bag1-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:39:02 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:39:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-bag1-300x300.jpg) to a remote server (server_1).
+06-05-2024 20:39:02 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:39:02 [inice.gamenix.store][debug] New queue created #31, attributes values: {"server_id":null,"object_id":"1314","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":167578,"final_size":157529,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":150463,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715017142}
+06-05-2024 20:39:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-bag2.jpg) to a remote server (server_1).
+06-05-2024 20:39:02 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:39:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-bag2-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:39:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:39:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-bag2-300x300.jpg) to a remote server (server_1).
+06-05-2024 20:39:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:39:03 [inice.gamenix.store][debug] New queue created #32, attributes values: {"server_id":null,"object_id":"1315","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":67392,"final_size":63650,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":55922,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715017143}
+06-05-2024 20:39:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-bag3.jpg) to a remote server (server_1).
+06-05-2024 20:39:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:39:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-bag3-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:39:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:39:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-bag3-300x300.jpg) to a remote server (server_1).
+06-05-2024 20:39:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:39:04 [inice.gamenix.store][debug] New queue created #33, attributes values: {"server_id":null,"object_id":"1316","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":94490,"final_size":88349,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":81088,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715017144}
+06-05-2024 20:39:04 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 20:44:02 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 20:44:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-bag4.jpg) to a remote server (server_1).
+06-05-2024 20:44:02 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:44:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-bag4-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:44:02 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:44:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-bag4-300x300.jpg) to a remote server (server_1).
+06-05-2024 20:44:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:44:03 [inice.gamenix.store][debug] New queue created #34, attributes values: {"server_id":null,"object_id":"1317","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":264574,"final_size":242700,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":239442,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715017443}
+06-05-2024 20:44:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-w-jeans1.jpg) to a remote server (server_1).
+06-05-2024 20:44:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:44:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-w-jeans1-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:44:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:44:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-w-jeans1-300x300.jpg) to a remote server (server_1).
+06-05-2024 20:44:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:44:04 [inice.gamenix.store][debug] New queue created #35, attributes values: {"server_id":null,"object_id":"1337","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":77125,"final_size":72056,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":65786,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715017444}
+06-05-2024 20:44:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-w-jeans2.jpg) to a remote server (server_1).
+06-05-2024 20:44:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:44:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-w-jeans2-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:44:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:44:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-w-jeans2-300x300.jpg) to a remote server (server_1).
+06-05-2024 20:44:05 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:44:05 [inice.gamenix.store][debug] New queue created #36, attributes values: {"server_id":null,"object_id":"1338","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":122757,"final_size":114795,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":109090,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715017445}
+06-05-2024 20:44:05 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 20:49:04 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 20:49:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-w-jeans3.jpg) to a remote server (server_1).
+06-05-2024 20:49:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:49:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-w-jeans3-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:49:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:49:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-w-jeans3-300x300.jpg) to a remote server (server_1).
+06-05-2024 20:49:05 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:49:05 [inice.gamenix.store][debug] New queue created #37, attributes values: {"server_id":null,"object_id":"1339","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":94293,"final_size":87725,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":82077,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715017745}
+06-05-2024 20:49:05 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-w-jeans4.jpg) to a remote server (server_1).
+06-05-2024 20:49:05 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:49:05 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-w-jeans4-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:49:05 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:49:05 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-w-jeans4-300x300.jpg) to a remote server (server_1).
+06-05-2024 20:49:05 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:49:05 [inice.gamenix.store][debug] New queue created #38, attributes values: {"server_id":null,"object_id":"1340","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":76082,"final_size":70990,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":64903,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715017745}
+06-05-2024 20:49:05 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-m-jeans1.jpg) to a remote server (server_1).
+06-05-2024 20:49:06 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:49:06 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-m-jeans1-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:49:06 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:49:06 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-m-jeans1-300x300.jpg) to a remote server (server_1).
+06-05-2024 20:49:06 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:49:06 [inice.gamenix.store][debug] New queue created #39, attributes values: {"server_id":null,"object_id":"1345","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":95870,"final_size":88777,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":83364,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715017746}
+06-05-2024 20:49:06 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 20:54:02 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 20:54:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-m-jeans2.jpg) to a remote server (server_1).
+06-05-2024 20:54:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:54:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-m-jeans2-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:54:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:54:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-m-jeans2-300x300.jpg) to a remote server (server_1).
+06-05-2024 20:54:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:54:03 [inice.gamenix.store][debug] New queue created #40, attributes values: {"server_id":null,"object_id":"1346","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":80138,"final_size":73874,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":69389,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715018043}
+06-05-2024 20:54:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-m-jeans3.jpg) to a remote server (server_1).
+06-05-2024 20:54:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:54:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-m-jeans3-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:54:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:54:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-m-jeans3-300x300.jpg) to a remote server (server_1).
+06-05-2024 20:54:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:54:04 [inice.gamenix.store][debug] New queue created #41, attributes values: {"server_id":null,"object_id":"1347","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":62781,"final_size":57767,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":52683,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715018044}
+06-05-2024 20:54:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-m-jeans4.jpg) to a remote server (server_1).
+06-05-2024 20:54:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:54:05 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-m-jeans4-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:54:05 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:54:05 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-m-jeans4-300x300.jpg) to a remote server (server_1).
+06-05-2024 20:54:05 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:54:05 [inice.gamenix.store][debug] New queue created #42, attributes values: {"server_id":null,"object_id":"1348","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":100401,"final_size":93015,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":87841,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715018045}
+06-05-2024 20:54:05 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 20:59:02 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 20:59:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-hoodie1.jpg) to a remote server (server_1).
+06-05-2024 20:59:02 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:59:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-hoodie1-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:59:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:59:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-hoodie1-300x300.jpg) to a remote server (server_1).
+06-05-2024 20:59:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:59:03 [inice.gamenix.store][debug] New queue created #43, attributes values: {"server_id":null,"object_id":"1356","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":126687,"final_size":119856,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":114905,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715018343}
+06-05-2024 20:59:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-hoodie2.jpg) to a remote server (server_1).
+06-05-2024 20:59:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:59:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-hoodie2-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:59:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:59:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-hoodie2-300x300.jpg) to a remote server (server_1).
+06-05-2024 20:59:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:59:04 [inice.gamenix.store][debug] New queue created #44, attributes values: {"server_id":null,"object_id":"1357","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":209672,"final_size":200722,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":194747,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715018344}
+06-05-2024 20:59:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-hoodie3.jpg) to a remote server (server_1).
+06-05-2024 20:59:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:59:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-hoodie3-150x150.jpg) to a remote server (server_1).
+06-05-2024 20:59:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:59:05 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-hoodie3-300x300.jpg) to a remote server (server_1).
+06-05-2024 20:59:05 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 20:59:05 [inice.gamenix.store][debug] New queue created #45, attributes values: {"server_id":null,"object_id":"1358","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":175348,"final_size":167480,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":161676,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715018345}
+06-05-2024 20:59:05 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 21:04:27 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 21:04:27 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-hoodie4.jpg.jpg) to a remote server (server_1).
+06-05-2024 21:04:27 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:04:27 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-hoodie4.jpg-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:04:27 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:04:27 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-hoodie4.jpg-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:04:27 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:04:28 [inice.gamenix.store][debug] New queue created #46, attributes values: {"server_id":null,"object_id":"1359","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":222300,"final_size":217272,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":206904,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715018668}
+06-05-2024 21:04:28 [inice.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/inice/wp-content/uploads/wio_backup/2021/03)
+06-05-2024 21:04:28 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/client-logo-1.png) to a remote server (server_1).
+06-05-2024 21:04:28 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:04:28 [inice.gamenix.store][debug] New queue created #47, attributes values: {"server_id":null,"object_id":"2446","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":2173,"final_size":1053,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":2173,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715018668}
+06-05-2024 21:04:28 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/client-logo-2.png) to a remote server (server_1).
+06-05-2024 21:04:28 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:04:28 [inice.gamenix.store][debug] New queue created #48, attributes values: {"server_id":null,"object_id":"2447","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1799,"final_size":905,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1799,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715018668}
+06-05-2024 21:04:28 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 21:09:02 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 21:09:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/client-logo-3.png) to a remote server (server_1).
+06-05-2024 21:09:02 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:09:02 [inice.gamenix.store][debug] New queue created #49, attributes values: {"server_id":null,"object_id":"2448","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1882,"final_size":927,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1882,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715018942}
+06-05-2024 21:09:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/client-logo-4.png) to a remote server (server_1).
+06-05-2024 21:09:02 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:09:02 [inice.gamenix.store][debug] New queue created #50, attributes values: {"server_id":null,"object_id":"2449","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":2169,"final_size":1019,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":2169,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715018942}
+06-05-2024 21:09:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt1.jpg) to a remote server (server_1).
+06-05-2024 21:09:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:09:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt1-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:09:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:09:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt1-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:09:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:09:03 [inice.gamenix.store][debug] New queue created #51, attributes values: {"server_id":null,"object_id":"2453","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":159766,"final_size":155349,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":147453,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715018943}
+06-05-2024 21:09:03 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 21:14:04 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 21:14:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt2.jpg) to a remote server (server_1).
+06-05-2024 21:14:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:14:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt2-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:14:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:14:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt2-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:14:05 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:14:05 [inice.gamenix.store][debug] New queue created #52, attributes values: {"server_id":null,"object_id":"2454","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":159989,"final_size":153454,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":147064,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715019245}
+06-05-2024 21:14:05 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt3.jpg) to a remote server (server_1).
+06-05-2024 21:14:05 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:14:05 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt3-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:14:05 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:14:06 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt3-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:14:06 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:14:06 [inice.gamenix.store][debug] New queue created #53, attributes values: {"server_id":null,"object_id":"2455","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":144799,"final_size":138139,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":132633,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715019246}
+06-05-2024 21:14:06 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt4.jpg) to a remote server (server_1).
+06-05-2024 21:14:06 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:14:07 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt4-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:14:07 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:14:07 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt4-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:14:07 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:14:07 [inice.gamenix.store][debug] New queue created #54, attributes values: {"server_id":null,"object_id":"2456","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":165493,"final_size":158508,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":152941,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715019247}
+06-05-2024 21:14:07 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 21:19:30 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 21:19:30 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt5.jpg) to a remote server (server_1).
+06-05-2024 21:19:31 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:19:31 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt5-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:19:31 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:19:31 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt5-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:19:31 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:19:31 [inice.gamenix.store][debug] New queue created #55, attributes values: {"server_id":null,"object_id":"2457","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":160752,"final_size":157459,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":148600,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715019571}
+06-05-2024 21:19:31 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt6.jpg) to a remote server (server_1).
+06-05-2024 21:19:32 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:19:32 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt6-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:19:32 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:19:32 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt6-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:19:32 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:19:32 [inice.gamenix.store][debug] New queue created #56, attributes values: {"server_id":null,"object_id":"2458","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":155095,"final_size":152011,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":143232,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715019572}
+06-05-2024 21:19:32 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt7.jpg) to a remote server (server_1).
+06-05-2024 21:19:32 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:19:33 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt7-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:19:33 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:19:33 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/tshirt7-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:19:33 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:19:33 [inice.gamenix.store][debug] New queue created #57, attributes values: {"server_id":null,"object_id":"2459","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":165271,"final_size":163479,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":152936,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715019573}
+06-05-2024 21:19:33 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 21:24:01 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 21:24:01 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/sports-shoe1.jpg) to a remote server (server_1).
+06-05-2024 21:24:02 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:24:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/sports-shoe1-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:24:02 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:24:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/sports-shoe1-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:24:02 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:24:02 [inice.gamenix.store][debug] New queue created #58, attributes values: {"server_id":null,"object_id":"2461","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":158322,"final_size":143946,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":143615,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715019842}
+06-05-2024 21:24:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/sports-shoe2.jpg) to a remote server (server_1).
+06-05-2024 21:24:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:24:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/sports-shoe2-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:24:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:24:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/sports-shoe2-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:24:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:24:03 [inice.gamenix.store][debug] New queue created #59, attributes values: {"server_id":null,"object_id":"2462","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":141185,"final_size":131174,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":127344,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715019843}
+06-05-2024 21:24:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/sports-shoe3.jpg) to a remote server (server_1).
+06-05-2024 21:24:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:24:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/sports-shoe3-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:24:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:24:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/sports-shoe3-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:24:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:24:04 [inice.gamenix.store][debug] New queue created #60, attributes values: {"server_id":null,"object_id":"2463","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":141315,"final_size":135105,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":126980,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715019844}
+06-05-2024 21:24:04 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 21:29:01 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 21:29:01 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/sports-shoe5.jpg) to a remote server (server_1).
+06-05-2024 21:29:02 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:29:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/sports-shoe5-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:29:02 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:29:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/03/sports-shoe5-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:29:02 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:29:02 [inice.gamenix.store][debug] New queue created #61, attributes values: {"server_id":null,"object_id":"2465","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":142095,"final_size":132544,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":128044,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715020142}
+06-05-2024 21:29:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/sports-shoe4.jpg) to a remote server (server_1).
+06-05-2024 21:29:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:29:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/sports-shoe4-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:29:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:29:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/sports-shoe4-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:29:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:29:03 [inice.gamenix.store][debug] New queue created #62, attributes values: {"server_id":null,"object_id":"2466","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":153060,"final_size":140320,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":138813,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715020143}
+06-05-2024 21:29:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/Монтажна-область-1-1.png) to a remote server (server_1).
+06-05-2024 21:29:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:29:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/Монтажна-область-1-1-150x150.png) to a remote server (server_1).
+06-05-2024 21:29:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:29:04 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/Монтажна-область-1-1-300x300.png) to a remote server (server_1).
+06-05-2024 21:29:04 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:29:04 [inice.gamenix.store][debug] New queue created #63, attributes values: {"server_id":null,"object_id":"2483","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":29353,"final_size":16003,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":20061,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715020144}
+06-05-2024 21:29:04 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 21:34:02 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 21:34:02 [inice.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/inice/wp-content/uploads/wio_backup/2021/05)
+06-05-2024 21:34:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/05/banner-04.jpg) to a remote server (server_1).
+06-05-2024 21:34:02 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:34:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/05/banner-04-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:34:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:34:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/05/banner-04-300x172.jpg) to a remote server (server_1).
+06-05-2024 21:34:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:34:03 [inice.gamenix.store][debug] New queue created #64, attributes values: {"server_id":null,"object_id":"2765","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":251728,"final_size":250494,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":228784,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715020443}
+06-05-2024 21:34:03 [inice.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/inice/wp-content/uploads/wio_backup/2021/06)
+06-05-2024 21:34:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/06/appstore-img.png) to a remote server (server_1).
+06-05-2024 21:34:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:34:03 [inice.gamenix.store][debug] New queue created #65, attributes values: {"server_id":null,"object_id":"2818","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":3904,"final_size":2610,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":3904,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715020443}
+06-05-2024 21:34:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2021/06/playstore-img.png) to a remote server (server_1).
+06-05-2024 21:34:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:34:04 [inice.gamenix.store][debug] New queue created #66, attributes values: {"server_id":null,"object_id":"2819","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":4603,"final_size":2686,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":4603,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715020444}
+06-05-2024 21:34:04 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 21:39:10 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 21:39:10 [inice.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/inice/wp-content/uploads/wio_backup/2022/08)
+06-05-2024 21:39:10 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/client-logo-5.png) to a remote server (server_1).
+06-05-2024 21:39:10 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:39:11 [inice.gamenix.store][debug] New queue created #67, attributes values: {"server_id":null,"object_id":"4021","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":2173,"final_size":1053,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":2173,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715020751}
+06-05-2024 21:39:11 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-accessory2-b.jpg) to a remote server (server_1).
+06-05-2024 21:39:11 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:39:11 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-accessory2-b-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:39:11 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:39:11 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-accessory2-b-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:39:11 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:39:11 [inice.gamenix.store][debug] New queue created #68, attributes values: {"server_id":null,"object_id":"4042","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":63388,"final_size":62570,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":52140,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715020751}
+06-05-2024 21:39:11 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-accessory2-c.jpg) to a remote server (server_1).
+06-05-2024 21:39:12 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:39:12 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-accessory2-c-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:39:12 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:39:12 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-accessory2-c-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:39:12 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:39:12 [inice.gamenix.store][debug] New queue created #69, attributes values: {"server_id":null,"object_id":"4043","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":69074,"final_size":68261,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":56587,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715020752}
+06-05-2024 21:39:12 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 21:44:05 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 21:44:05 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-accessory1-b.jpg) to a remote server (server_1).
+06-05-2024 21:44:06 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:44:06 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-accessory1-b-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:44:06 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:44:06 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-accessory1-b-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:44:06 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:44:06 [inice.gamenix.store][debug] New queue created #70, attributes values: {"server_id":null,"object_id":"4094","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":80255,"final_size":79390,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":66872,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715021046}
+06-05-2024 21:44:06 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-accessory1-c.jpg) to a remote server (server_1).
+06-05-2024 21:44:06 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:44:07 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-accessory1-c-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:44:07 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:44:07 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-accessory1-c-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:44:07 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:44:07 [inice.gamenix.store][debug] New queue created #71, attributes values: {"server_id":null,"object_id":"4095","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":78940,"final_size":78120,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":65192,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715021047}
+06-05-2024 21:44:07 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-bag3-b.jpg) to a remote server (server_1).
+06-05-2024 21:44:07 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:44:07 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-bag3-b-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:44:08 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:44:08 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-bag3-b-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:44:08 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:44:08 [inice.gamenix.store][debug] New queue created #72, attributes values: {"server_id":null,"object_id":"4096","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":73807,"final_size":72905,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":60609,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715021048}
+06-05-2024 21:44:08 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 21:49:08 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 21:49:08 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-bag3-c.jpg) to a remote server (server_1).
+06-05-2024 21:49:09 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:49:09 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-bag3-c-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:49:09 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:49:09 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-bag3-c-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:49:09 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:49:09 [inice.gamenix.store][debug] New queue created #73, attributes values: {"server_id":null,"object_id":"4097","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":75987,"final_size":75075,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":62587,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715021349}
+06-05-2024 21:49:09 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-bag3-d.jpg) to a remote server (server_1).
+06-05-2024 21:49:10 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:49:10 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-bag3-d-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:49:10 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:49:10 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/08/product-bag3-d-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:49:10 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:49:10 [inice.gamenix.store][debug] New queue created #74, attributes values: {"server_id":null,"object_id":"4098","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":75102,"final_size":74219,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":61915,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715021350}
+06-05-2024 21:49:10 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-about-01.jpg) to a remote server (server_1).
+06-05-2024 21:49:10 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:49:10 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-about-01-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:49:11 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:49:11 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-about-01-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:49:11 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:49:11 [inice.gamenix.store][debug] New queue created #75, attributes values: {"server_id":null,"object_id":"4132","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":67986,"final_size":67061,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":49340,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715021351}
+06-05-2024 21:49:11 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 21:54:17 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 21:54:17 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-about-02.jpg) to a remote server (server_1).
+06-05-2024 21:54:18 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:54:18 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-about-02-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:54:18 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:54:18 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-about-02-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:54:18 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:54:18 [inice.gamenix.store][debug] New queue created #76, attributes values: {"server_id":null,"object_id":"4133","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":122605,"final_size":121200,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":95451,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715021658}
+06-05-2024 21:54:18 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-about-03.jpg) to a remote server (server_1).
+06-05-2024 21:54:19 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:54:19 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-about-03-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:54:19 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:54:19 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-about-03-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:54:19 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:54:19 [inice.gamenix.store][debug] New queue created #77, attributes values: {"server_id":null,"object_id":"4134","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":78746,"final_size":77979,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":57686,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715021659}
+06-05-2024 21:54:19 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-about-04.jpg) to a remote server (server_1).
+06-05-2024 21:54:19 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:54:20 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-about-04-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:54:20 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:54:20 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2017/12/product-about-04-300x300.jpg) to a remote server (server_1).
+06-05-2024 21:54:20 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:54:20 [inice.gamenix.store][debug] New queue created #78, attributes values: {"server_id":null,"object_id":"4135","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":47954,"final_size":47318,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":32678,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715021660}
+06-05-2024 21:54:20 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 21:59:19 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 21:59:19 [inice.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/inice/wp-content/uploads/wio_backup/2022/09)
+06-05-2024 21:59:19 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/09/demo-screenshot.jpg) to a remote server (server_1).
+06-05-2024 21:59:20 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:59:20 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/09/demo-screenshot-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:59:20 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:59:20 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2022/09/demo-screenshot-300x158.jpg) to a remote server (server_1).
+06-05-2024 21:59:20 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:59:20 [inice.gamenix.store][debug] New queue created #79, attributes values: {"server_id":null,"object_id":"4386","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":106476,"final_size":99621,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":94210,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715021960}
+06-05-2024 21:59:21 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/8f20ea093f9c8311ea2749dafaa03216-scaled.jpg) to a remote server (server_1).
+06-05-2024 21:59:21 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:59:21 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/8f20ea093f9c8311ea2749dafaa03216-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:59:21 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:59:21 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/8f20ea093f9c8311ea2749dafaa03216-300x200.jpg) to a remote server (server_1).
+06-05-2024 21:59:21 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:59:21 [inice.gamenix.store][debug] New queue created #80, attributes values: {"server_id":null,"object_id":"4390","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":295359,"final_size":128423,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":284178,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715021961}
+06-05-2024 21:59:21 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/112922962_apple.jpg) to a remote server (server_1).
+06-05-2024 21:59:22 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:59:22 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/112922962_apple-150x150.jpg) to a remote server (server_1).
+06-05-2024 21:59:22 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:59:22 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/112922962_apple-300x169.jpg) to a remote server (server_1).
+06-05-2024 21:59:22 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 21:59:22 [inice.gamenix.store][debug] New queue created #81, attributes values: {"server_id":null,"object_id":"4392","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":56748,"final_size":55923,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":49526,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715021962}
+06-05-2024 21:59:22 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 22:14:51 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 22:14:51 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/apple-chiffres.jpeg) to a remote server (server_1).
+06-05-2024 22:14:51 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 22:14:51 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/apple-chiffres-150x150.jpeg) to a remote server (server_1).
+06-05-2024 22:14:51 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 22:14:51 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/apple-chiffres-300x200.jpeg) to a remote server (server_1).
+06-05-2024 22:14:51 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 22:14:51 [inice.gamenix.store][debug] New queue created #82, attributes values: {"server_id":null,"object_id":"4393","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":33492,"final_size":33492,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":26258,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715022891}
+06-05-2024 22:14:51 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/Монтажна-область-1-2.png) to a remote server (server_1).
+06-05-2024 22:14:52 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 22:14:52 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/Монтажна-область-1-2-150x150.png) to a remote server (server_1).
+06-05-2024 22:14:52 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 22:14:52 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/Монтажна-область-1-2-300x300.png) to a remote server (server_1).
+06-05-2024 22:14:52 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 22:14:52 [inice.gamenix.store][debug] New queue created #83, attributes values: {"server_id":null,"object_id":"4398","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":29353,"final_size":16003,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":20061,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715022892}
+06-05-2024 22:14:52 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/cropped-montazhna-oblast-1-2.png) to a remote server (server_1).
+06-05-2024 22:14:52 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 22:14:52 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/cropped-montazhna-oblast-1-2-150x150.png) to a remote server (server_1).
+06-05-2024 22:14:52 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 22:14:52 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/cropped-montazhna-oblast-1-2-300x300.png) to a remote server (server_1).
+06-05-2024 22:14:53 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 22:14:53 [inice.gamenix.store][debug] New queue created #84, attributes values: {"server_id":null,"object_id":"4525","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":21387,"final_size":14123,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":11115,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715022893}
+06-05-2024 22:14:53 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+06-05-2024 22:19:01 [inice.gamenix.store][info] Start cron job. Scope: media-library
+06-05-2024 22:19:01 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/5ba2171-apple-header.png) to a remote server (server_1).
+06-05-2024 22:19:01 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 22:19:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/5ba2171-apple-header-150x150.png) to a remote server (server_1).
+06-05-2024 22:19:02 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 22:19:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/5ba2171-apple-header-300x158.png) to a remote server (server_1).
+06-05-2024 22:19:02 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 22:19:02 [inice.gamenix.store][debug] New queue created #85, attributes values: {"server_id":null,"object_id":"4528","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":201825,"final_size":76063,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":178048,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715023142}
+06-05-2024 22:19:02 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/msg5218435695-232400.jpg) to a remote server (server_1).
+06-05-2024 22:19:02 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 22:19:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/msg5218435695-232400-150x150.jpg) to a remote server (server_1).
+06-05-2024 22:19:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 22:19:03 [inice.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/inice/wp-content/uploads/2024/05/msg5218435695-232400-225x300.jpg) to a remote server (server_1).
+06-05-2024 22:19:03 [inice.gamenix.store][info] File successfully uploaded to remote server (server_1).
+06-05-2024 22:19:03 [inice.gamenix.store][debug] New queue created #86, attributes values: {"server_id":null,"object_id":"4534","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":35641,"final_size":35641,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":20942,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715023143}
+06-05-2024 22:19:03 [inice.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
